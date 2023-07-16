@@ -1,2 +1,2 @@
 # image search engine 
- engine gelps to get photos using unsplash api #html #css #js 
+ engine helps to get photos using unsplash api #html #css #js 
